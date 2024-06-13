@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page renders a component 1`] = `
+<main
+  className="flex min-h-screen flex-col  justify-between p-24"
+/>
+`;
+
+exports[`Page renders a heading 1`] = `
+<main
+  className="flex min-h-screen flex-col  justify-between p-24"
+/>
+`;
